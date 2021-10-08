@@ -1,4 +1,4 @@
-package IO_ArithmeticOP;
+package iO_ArithmeticOP;
 
 public class step1 {
 public static void main(String[] args) {

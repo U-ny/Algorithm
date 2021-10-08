@@ -1,4 +1,4 @@
-package IO_ArithmeticOP;
+package iO_ArithmeticOP;
 
 import java.util.Scanner;
 
